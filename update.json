@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "0.1.59",
-  "apkUrl": "https://github.com/Forestmorning/furong-calendar/releases/download/v0.1.59/furong-calendar-0.1.59-release.apk",
-  "note": "修复：国内手机网络下 raw.githubusercontent.com 被干扰，导致「检查更新」提示无法连接更新服务器、收不到自动更新。现改为 GitHub Release 固定永久链接为主、jsDelivr 与 raw 依次兜底，超时缩短到 7 秒，并加入诊断日志。已装 0.1.57/0.1.58 的朋友请手动下载安装本版一次（覆盖安装不丢数据），之后升级即恢复全自动。",
+  "versionCode": 61,
+  "versionName": "0.1.60",
+  "apkUrl": "https://gitee.com/forestmorning/furong-calendar/releases/download/v0.1.60/furong-calendar-0.1.60-release.apk",
+  "note": "更新源与「分享给朋友」链接整体切换到 Gitee（国内手机网络直连可用）。此前版本在蜂窝网络下连不上 GitHub。需手动安装本版一次，之后升级恢复全自动。",
   "size": 40371948
 }
