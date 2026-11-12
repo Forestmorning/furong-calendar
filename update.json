@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.1.57",
-  "apkUrl": "https://github.com/Forestmorning/furong-calendar/releases/download/v0.1.57/furong-calendar-0.1.57-release.apk",
-  "note": "新增：打开 App 自动检查更新并一键下载安装；「说明/反馈 → 检查更新」可手动检查。",
+  "versionCode": 59,
+  "versionName": "0.1.58",
+  "apkUrl": "https://github.com/Forestmorning/furong-calendar/releases/download/v0.1.58/furong-calendar-0.1.58-release.apk",
+  "note": "新增：「说明/反馈 → 分享给朋友（安装链接）」一键复制并分享当前版本安装直链给新朋友；链接随自更新自动指向最新版。",
   "size": 40371948
 }
